@@ -1,7 +1,7 @@
 move.hold("d",3)
 move.hold("s",4)
 pag.keyDown("a")
-time.sleep(12*28/ws)
+time.sleep(12*29/ws)
 pag.keyUp("a")
 move.hold("w",2.5)
 move.hold("a",0.3)
